@@ -2,6 +2,7 @@
 
 Python Birds
 ===========
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/76125191/121180098-d73fbd80-c836-11eb-86b6-83904b828a57.gif)
 
 Essa versão é a mais simples. Ela não contém replay nem reset, de forma que o jogo não pode retroceder.
 
